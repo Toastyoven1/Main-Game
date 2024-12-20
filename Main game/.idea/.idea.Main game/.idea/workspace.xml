@@ -6,10 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="6e8f90de-7826-4d22-a4b3-ee2f8adaa439" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Main game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Main game/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Mainmenu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Mainmenu.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main menu.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/pixil-frame-0-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/pixil-frame-0-2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Mainmenu.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Mainmenu.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/pixilart-drawing-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/pixilart-drawing-2.png.meta" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,6 +110,7 @@
       <workItem from="1734636026485" duration="442000" />
       <workItem from="1734637846038" duration="28000" />
       <workItem from="1734637929883" duration="317000" />
+      <workItem from="1734724289251" duration="845000" />
     </task>
     <servers />
   </component>
