@@ -2,11 +2,10 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-
-public class Mainmenu : MonoBehaviour
+public class MainMenu : MonoBehaviour
 {
-    public void PlayGame()
-    {
-      SceneManager.LoadScene
-    }
-}   
+   public void PlayGame()
+   {
+      SceneManager.LoadSceneAsync(1);
+   }
+}
