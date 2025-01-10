@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6e8f90de-7826-4d22-a4b3-ee2f8adaa439" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Main game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Main game/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Game.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/FollowMouse.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/FollowMouse.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,9 +89,6 @@
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
       <option name="projectPathOnTarget" />
-      <option name="runtimes">
-        <list />
-      </option>
       <option name="selectedOptions">
         <list />
       </option>
@@ -102,9 +99,6 @@
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
       <option name="projectPathOnTarget" />
-      <option name="runtimes">
-        <list />
-      </option>
       <option name="selectedOptions">
         <list />
       </option>
@@ -132,6 +126,7 @@
       <workItem from="1735718502880" duration="946000" />
       <workItem from="1736278805445" duration="759000" />
       <workItem from="1736353258507" duration="3000" />
+      <workItem from="1736452305264" duration="187000" />
     </task>
     <servers />
   </component>
